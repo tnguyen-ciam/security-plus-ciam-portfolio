@@ -1,0 +1,4 @@
+{
+  "scope": "read:reports write:reports",
+  "sub": "redacted"
+}
